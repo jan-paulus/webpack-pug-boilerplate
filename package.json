@@ -7,7 +7,12 @@
     "start": "webpack-dev-server --mode development --open",
     "build": "NODE_ENV=production webpack --mode production"
   },
-  "keywords": ["webpack", "es6", "pug", "scss"],
+  "keywords": [
+    "webpack",
+    "es6",
+    "pug",
+    "scss"
+  ],
   "author": "Jan Paulus",
   "license": "ISC",
   "devDependencies": {
